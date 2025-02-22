@@ -13,6 +13,7 @@ I am a second year student pursuing a Computer Science degree. My dream is to wo
 ## Hobbies and areas of interest
 
 My hobbies: chess and table tennis
+
 My interests in IT: OS (Windows/ Linux), programming, networking.
 
 ## Programming languages
